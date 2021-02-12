@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload. LOL Worked!
-          lsdlfjasldfjlasjlfj!!
+          This is ReactTest!!
         </p>
         <a
           className="App-link"
